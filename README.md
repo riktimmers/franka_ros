@@ -12,3 +12,7 @@ All packages of `franka_ros` are licensed under the [Apache 2.0 license][apache-
 [fci-docs]: https://frankaemika.github.io/docs
 [travis-status]: https://travis-ci.org/frankaemika/franka_ros.svg?branch=kinetic-devel
 [travis]: https://travis-ci.org/frankaemika/franka_ros
+
+## Edits 
+The large collision spheres in the hand (franka_description/robots/hand.xacro) have been replaced with the actual dae files of the hand and fingers that are also used for visualization. 
+
